@@ -1,0 +1,4 @@
+name: reviveBox
+version: '1.0'
+main: me.rain.revivebox.ReviveBox
+api-version: '1.20'

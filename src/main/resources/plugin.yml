@@ -1,0 +1,4 @@
+name: reviveBox
+version: '${project.version}'
+main: me.rain.revivebox.ReviveBox
+api-version: '1.20'
